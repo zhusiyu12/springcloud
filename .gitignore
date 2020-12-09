@@ -1,0 +1,11 @@
+# Project exclude paths
+/consumer/target/
+/eurekaclient/target/
+/eureskaserver/target/
+/feign/target/
+/hystrix/target/
+/native/target/
+/nativeconfigclient/target/
+/resttemplate/target/
+/ribbon/target/
+/zuul/target/
